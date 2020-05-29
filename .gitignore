@@ -1,4 +1,6 @@
-data/
+data/tiny*
 __pycache__/
 .DS_Store
-eval.csv
+*.csv
+*icloud
+*.txt
